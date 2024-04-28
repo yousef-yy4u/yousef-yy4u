@@ -22,7 +22,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-   - 🛢 &nbsp;
+- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   <!--![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)-->
   <!-- - ⚙️ &nbsp;
@@ -43,7 +43,7 @@
 
 <p align="center">
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/yousif-yousef"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yousif%20Yousef-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yousif-yousef"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40Yousif%20Yousef-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/youseef.yy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-youseef.yy-blue?style=flat-square&logo=instagram"></a>
 <a href="yousef.yy4u@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yousef.yy4u@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
