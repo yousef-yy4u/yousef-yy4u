@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yousif Yousef! 👋</h1>
-<h3 align="center">🚀 SaaS Founder | Full-Stack Engineer | CS @ UofG</h3>
+<h3 align="center">🚀 Creator of TabibFlow | Full-Stack Engineer | CS @ UofG</h3>
 
 <p align="center">
   <em>Building complex systems that bridge the gap between <strong>Science</strong>, <strong>Business</strong>, and <strong>Software</strong>.</em>
@@ -9,10 +9,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 &nbsp; **Founder of TabibFlow**, a multi-tenant SaaS platform optimizing clinic operations in Jordan.
+- 🔭 &nbsp; **Building [TabibFlow](#)**, a multi-tenant SaaS platform optimizing clinic operations in Jordan (Currently in Beta).
 - 🧬 &nbsp; **Software Lead for iGEM Guelph**, architecting **[BioMap](https://www.bio-map.ca)**—an AI-powered simulation engine for synthetic biology.
 - 🎓 &nbsp; 4th Year Computer Science Student at the **University of Guelph** (Co-op).
-- 🌱 &nbsp; specializing in **SaaS Architecture**, **Scientific Machine Learning (SciML)**, and **Cloud Infrastructure**.
+- 🌱 &nbsp; Specializing in **SaaS Architecture**, **Scientific Machine Learning (SciML)**, and **Cloud Infrastructure**.
 - 💡 &nbsp; Currently solving problems in **Healthcare Tech** and **Bioinformatics**.
 
 <br/>
@@ -21,10 +21,10 @@
 
 | **BioMap (iGEM 2025)** | **TabibFlow (SaaS)** |
 | :--- | :--- |
-| **Role:** Software Lead & Architect | **Role:** Founder & Lead Engineer |
+| **Role:** Software Lead & Architect | **Role:** Creator & Lead Engineer |
 | An AI-powered platform converting natural language into ODE simulations for biologists. | A location-aware, multi-tenant clinic management system with granular RBAC security. |
 | 🛠 *React, FastAPI, OpenAI GPT-4, PostgreSQL* | 🛠 *React, PostgreSQL, Docker, JWT Auth* |
-| [**🌐 Visit Live Site**](https://www.bio-map.ca) | [**🔒 Private Repo (Startup)**](#) |
+| [**🌐 Visit Live Site**](https://www.bio-map.ca) | [**🔒 Private Repo (In Development)**](#) |
 
 <br/>
 
@@ -53,17 +53,6 @@
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-
-<br/>
-
-### 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/yousef-yy4u">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousef-yy4u&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-yy4u&theme=buefy&layout=compact" />
-  </a>
-</div>
 
 <br/>
 
