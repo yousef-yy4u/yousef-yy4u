@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Creator of TabibFlow | Full-Stack Engineer | CS @ UofG</h3>
 
 <p align="center">
-  <em>Building complex systems that bridge the gap between <strong>Science</strong>, <strong>Business</strong>, and <strong>Software</strong>.</em>
+  <em>Building complex systems that bridge the gap between <strong>Science</strong>, and <strong>Software</strong>.</em>
 </p>
 
 <br/>
