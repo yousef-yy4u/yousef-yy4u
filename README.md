@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yousif Yousef! 👋</h1>
+<h1 align="center">Hi, I'm Yousif! 👋</h1>
 <h3 align="center">🚀 Creator of TabibFlow | Full-Stack Engineer | CS @ UofG</h3>
 
 <p align="center">
